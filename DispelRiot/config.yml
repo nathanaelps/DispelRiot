@@ -1,0 +1,13 @@
+dispelRiot:
+  worlds:
+    world: true
+    otherworld: false
+  settings:
+    tickDelay: 60
+    radiusToCheck: 1.5
+    dieChance: 50
+    maxNumber: 4
+  removal:
+    explode: true
+    power: .1
+    removeEntity: true
